@@ -1,4 +1,4 @@
 - 👋 Hi, we're @EPIC-Lab-sjtu
-- 👀 We are interested in Efficient AI (e.g. Knowledge Distillation, Model Compression )
-- 🌱 We are currently focusing on diffusion model acceleration.
+- 👀 We are interested in Efficient AI
+- 🌱 We are currently focusing on efficient LLM/MLLM, efficient AIGC and data-efficient AI
 - 📫 epiclabsjtu@163.com
